@@ -30,9 +30,9 @@ pip install timm thop efficientnet_pytorch einops grad-cam dill
 
 ## Details
 
-（1）本文提出的所有模块在文件ultralytics\nn\modules\conv.py与文件ultralytics\nn\modules\block.py中，请对照论文查看各功能模块。
+（1）下载完本项目后请先解压ultralytics.zip
 
-（2）
+（2）本文提出的所有模块在文件ultralytics\nn\modules\conv.py与文件ultralytics\nn\modules\block.py中，请对照论文查看各功能模块。
 
 ## Copyright Notice
 Many utility codes of our project are based on the codes from the [ultralytics](https://github.com/ultralytics/ultralytics) and [Gold-YOLO](https://github.com/huawei-noah/Efficient-Computing/tree/master/Detection/Gold-YOLO) repositories.
