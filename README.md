@@ -2,7 +2,9 @@
 
 本项目为论文“基于YOLO-Bait多尺度特征增强的养殖场景残饵检测方法”对应代码
 如果项目对您的研究有帮助，请引用我们的文章：
+
 [1]李振华，王骥，刘雯景，等. 基于YOLO-Bait多尺度特征增强的养殖场景残饵检测方法[J]. 农业工程学报，2026，42(10)：204-214. DOI:  10.11975/j.issn.1002-6819.202512049
+
 LI Zhenhua, WANG Ji, LIU Wenjing, et al. Residual bait detection in aquaculture scenes based on YOLO-Bait with multi-scale feature enhancement[J]. Transactions of the Chinese Society of Agricultural Engineering (Transactions of the CSAE), 2026, 42(10): 204-214. DOI:  10.11975/j.issn.1002-6819.202512049
 
 
